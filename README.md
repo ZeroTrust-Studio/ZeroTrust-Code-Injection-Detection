@@ -4,7 +4,7 @@
 
 ### Note
 
-![Banner](https://cdn.sacul.cloud/v2/vision-cdn/atm/mainpage2.png)
+![Banner](https://i.postimg.cc/4NhQT5Yz/Screenshot-9.png)
 
 This detection pattern is extracted from [ZeroTrust Anti-Malware](https://zerotrust.tebex.io/package/6286090). This is just one of dozens of detection patterns available in the premium version. For comprehensive scanning across multiple file types (Lua, JavaScript, C#) and advanced detection capabilities, it's recommended to use the full version. 
 ZeroTrust is the best resource on FiveM for scanning threats inside your resources.
